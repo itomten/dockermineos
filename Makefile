@@ -1,6 +1,6 @@
 REGISTRY_NAME := 
-REPOSITORY_NAME := hexparrot/
-IMAGE_NAME := mineos
+REPOSITORY_NAME := itomten/
+IMAGE_NAME := dockermineos
 TAG := :latest
 
 .PHONY: getcommitid
