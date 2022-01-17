@@ -17,7 +17,7 @@ mineos.DIRS = {
 
 mineos.SP_DEFAULTS = {
   'server-port': 25565,
-  'max-players': 20,
+  'max-players': 8,
   'level-seed': '',
   'gamemode': 0,
   'difficulty': 1,
